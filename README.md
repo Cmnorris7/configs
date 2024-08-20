@@ -161,6 +161,7 @@ Currently documentation is available for the following systems:
 - [MPCDF](docs/mpcdf.md)
 - [MPCDF_VIPER](docs/mpcdf_viper.md)
 - [MUNIN](docs/munin.md)
+- [NCAH](docs/ncah.md)
 - [NCI GADI](docs/nci_gadi.md)
 - [NU_GENOMICS](docs/nu_genomics.md)
 - [NYGC](docs/nygc.md)

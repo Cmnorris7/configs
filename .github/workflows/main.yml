@@ -110,6 +110,7 @@ jobs:
           - "mpcdf"
           - "mpcdf_viper"
           - "munin"
+          - "ncah"
           - "nci_gadi"
           - "nu_genomics"
           - "nygc"
